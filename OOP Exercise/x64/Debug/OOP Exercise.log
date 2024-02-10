@@ -1,0 +1,3 @@
+﻿  Student.cpp
+C:\Users\andre\Conestoga\Winter 2024\Programming II\OOP Exercise\Student.cpp(109): warning C4715: 'Student::gradePoints': not all control paths return a value
+  OOP Exercise.vcxproj -> C:\Users\andre\Conestoga\Winter 2024\Programming II\OOP Exercise\x64\Debug\OOP Exercise.exe
